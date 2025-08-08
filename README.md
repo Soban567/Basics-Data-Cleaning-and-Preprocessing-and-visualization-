@@ -17,11 +17,7 @@ This repository is ideal for learning and demonstrating data preparation workflo
 
 ![WhatsApp Image 2025-08-08 at 3 48 04 PM](https://github.com/user-attachments/assets/9315442c-935d-473e-8a60-27001d62c214)
 
-
 ![WhatsApp Image 2025-08-08 at 3 48 04 PM (2)](https://github.com/user-attachments/assets/432e53c8-4e6b-4bc5-8238-6c486f83f1b1)
-
-
-![WhatsApp Image 2025-08-08 at 3 48 05 PM](https://github.com/user-attachments/assets/38e93a6b-70ec-4b9d-8df9-47836cd57e73)
 
 ![WhatsApp Image 2025-08-08 at 3 48 05 PM (1)](https://github.com/user-attachments/assets/d9aca2ed-f2de-464a-b51c-cd008f857952)
 
